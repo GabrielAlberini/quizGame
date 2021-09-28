@@ -1,0 +1,12 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta":"¿Quién pinto la Mona Lisa? 1",
+        "respuesta":"Leonardo Da Vinci",
+        "incorecta1": "Picasso",
+        "incorrecta2": "Miguel Angel",
+        "incorrecta3": "Monet",
+        "imagen": "https://experienciasconarte.com/wp-content/uploads/2019/01/Captura-de-pantalla-2019-02-02-a-las-23.17.36.jpg",
+        "object-fit": "cover"        
+    }
+]
